@@ -1,6 +1,8 @@
 # 🎙️ AI Text to Speech Converter
 
 A beautiful, modern Text-to-Speech web app built with HTML, CSS, and JavaScript — featuring voice effects, waveform animation, and a stunning dark UI.
+## 🌐 Live Demo
+👉 [Click here to see live demo](https://akrititiwari01.github.io/AI-Text-To-Speech/)
 
 ## ✨ Features
 
